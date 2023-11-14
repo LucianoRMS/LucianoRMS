@@ -4,7 +4,6 @@
 - 🌱  Estudando NodeJS 
 - 💬 Disposto a encarar novos desafios.
 - 📫 lucianorobsonms@gmail.com
-- 😄 ele/dele
 
 <div align="center">
   <a href="https://github.com/LucianoRMS">
